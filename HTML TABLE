@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <title>LEKE TECH INSTITUTE</title>
+    <BODY>
+        <h1>WELCOME TO LEKETECH INSTITTUE</h1>
+        <table border="3" width="20%"></table>
+                 <tr>
+                <th>NAME</th>
+                <th>AGE</th>
+                <th>TIME</th>
+                <DIV>
+                    <table border="3" width="20%"></table>
+                        <tr>
+                            <td>LEKE</td>
+                            <td>20</td>
+                            <td>10:00 AM</td>
+                            <DIV>
+                         </tr>
+                         <table border="3" width="20%"></table>
+                        <tr>
+                            <td>JOHN</td>
+                            <td>25</td>
+                            <td>11:00 AM</td>
+                     </tr>
+        </table>
+    </BODY>
+</head>
+<title>TIME <TABLE></TABLE></title>
+<FOOTER>
+    <p>&COPY;2025</p>
+    !
